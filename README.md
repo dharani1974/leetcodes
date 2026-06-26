@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dharani1974/leetcodes/tree/master/0001-two-sum) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/dharani1974/leetcodes/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dharani1974/leetcodes/tree/master/0001-two-sum) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/dharani1974/leetcodes/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 ## Enumeration
 |  |
