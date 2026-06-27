@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dharani1974/leetcodes/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/dharani1974/leetcodes/tree/master/0035-search-insert-position) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/dharani1974/leetcodes/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 ## Hash Table
 |  |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/dharani1974/leetcodes/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/dharani1974/leetcodes/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
