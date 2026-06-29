@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/dharani1974/leetcodes/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/dharani1974/leetcodes/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/dharani1974/leetcodes/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/dharani1974/leetcodes/tree/master/0704-binary-search) |
 ## Prefix Sum
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/dharani1974/leetcodes/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/dharani1974/leetcodes/tree/master/0367-valid-perfect-square) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dharani1974/leetcodes/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
