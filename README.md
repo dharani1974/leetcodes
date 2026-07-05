@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/dharani1974/leetcodes/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/dharani1974/leetcodes/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/dharani1974/leetcodes/tree/master/0415-add-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dharani1974/leetcodes/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Matrix
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/dharani1974/leetcodes/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/dharani1974/leetcodes/tree/master/0500-keyboard-row) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dharani1974/leetcodes/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/dharani1974/leetcodes/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dharani1974/leetcodes/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/dharani1974/leetcodes/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
