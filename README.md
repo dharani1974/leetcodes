@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/dharani1974/leetcodes/tree/master/2540-minimum-common-value) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/dharani1974/leetcodes/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dharani1974/leetcodes/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dharani1974/leetcodes/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/dharani1974/leetcodes/tree/master/0415-add-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dharani1974/leetcodes/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dharani1974/leetcodes/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dharani1974/leetcodes/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
