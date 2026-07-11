@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/dharani1974/leetcodes/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dharani1974/leetcodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/dharani1974/leetcodes/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/dharani1974/leetcodes/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/dharani1974/leetcodes/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/dharani1974/leetcodes/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/dharani1974/leetcodes/tree/master/0643-maximum-average-subarray-i) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/dharani1974/leetcodes/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/dharani1974/leetcodes/tree/master/0495-teemo-attacking) |
 | [1920-build-array-from-permutation](https://github.com/dharani1974/leetcodes/tree/master/1920-build-array-from-permutation) |
 | [3925-concatenate-array-with-reverse](https://github.com/dharani1974/leetcodes/tree/master/3925-concatenate-array-with-reverse) |
 ## Counting
