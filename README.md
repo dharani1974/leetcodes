@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/dharani1974/leetcodes/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/dharani1974/leetcodes/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/dharani1974/leetcodes/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/dharani1974/leetcodes/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/dharani1974/leetcodes/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dharani1974/leetcodes/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dharani1974/leetcodes/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/dharani1974/leetcodes/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/dharani1974/leetcodes/tree/master/0495-teemo-attacking) |
+| [0682-baseball-game](https://github.com/dharani1974/leetcodes/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/dharani1974/leetcodes/tree/master/1920-build-array-from-permutation) |
 | [3925-concatenate-array-with-reverse](https://github.com/dharani1974/leetcodes/tree/master/3925-concatenate-array-with-reverse) |
 ## Counting
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dharani1974/leetcodes/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/dharani1974/leetcodes/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
