@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/dharani1974/leetcodes/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/dharani1974/leetcodes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dharani1974/leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/dharani1974/leetcodes/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/dharani1974/leetcodes/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/dharani1974/leetcodes/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dharani1974/leetcodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dharani1974/leetcodes/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/dharani1974/leetcodes/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dharani1974/leetcodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/dharani1974/leetcodes/tree/master/0500-keyboard-row) |
 | [0869-reordered-power-of-2](https://github.com/dharani1974/leetcodes/tree/master/0869-reordered-power-of-2) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dharani1974/leetcodes/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/dharani1974/leetcodes/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/dharani1974/leetcodes/tree/master/0561-array-partition) |
 | [0869-reordered-power-of-2](https://github.com/dharani1974/leetcodes/tree/master/0869-reordered-power-of-2) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dharani1974/leetcodes/tree/master/0169-majority-element) |
 | [0869-reordered-power-of-2](https://github.com/dharani1974/leetcodes/tree/master/0869-reordered-power-of-2) |
 ## Greedy
 |  |
@@ -145,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dharani1974/leetcodes/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/dharani1974/leetcodes/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
