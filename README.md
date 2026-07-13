@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/dharani1974/leetcodes/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dharani1974/leetcodes/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dharani1974/leetcodes/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/dharani1974/leetcodes/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/dharani1974/leetcodes/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/dharani1974/leetcodes/tree/master/0869-reordered-power-of-2) |
 | [2540-minimum-common-value](https://github.com/dharani1974/leetcodes/tree/master/2540-minimum-common-value) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/dharani1974/leetcodes/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/dharani1974/leetcodes/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Enumeration
 |  |
 | ------- |
