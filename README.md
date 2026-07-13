@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dharani1974/leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dharani1974/leetcodes/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/dharani1974/leetcodes/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/dharani1974/leetcodes/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/dharani1974/leetcodes/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/dharani1974/leetcodes/tree/master/0977-squares-of-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/dharani1974/leetcodes/tree/master/2540-minimum-common-value) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/dharani1974/leetcodes/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/dharani1974/leetcodes/tree/master/0500-keyboard-row) |
+| [0844-backspace-string-compare](https://github.com/dharani1974/leetcodes/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dharani1974/leetcodes/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/dharani1974/leetcodes/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/dharani1974/leetcodes/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/dharani1974/leetcodes/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/dharani1974/leetcodes/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/dharani1974/leetcodes/tree/master/1920-build-array-from-permutation) |
 | [3925-concatenate-array-with-reverse](https://github.com/dharani1974/leetcodes/tree/master/3925-concatenate-array-with-reverse) |
 ## Counting
@@ -154,4 +157,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/dharani1974/leetcodes/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/dharani1974/leetcodes/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
