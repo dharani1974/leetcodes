@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/dharani1974/leetcodes/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/dharani1974/leetcodes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dharani1974/leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/dharani1974/leetcodes/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/dharani1974/leetcodes/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/dharani1974/leetcodes/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/dharani1974/leetcodes/tree/master/0414-third-maximum-number) |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/dharani1974/leetcodes/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/dharani1974/leetcodes/tree/master/0844-backspace-string-compare) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/dharani1974/leetcodes/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
