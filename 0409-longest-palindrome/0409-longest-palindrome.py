@@ -11,9 +11,9 @@ class Solution:
         for key in seen:
             if seen[key]%2==0:
                 count+=seen[key]
-            elif seen[key]>1 :
+            else:
+                if seen[key]==1:
+                    single=1
                 count+=seen[key]-1
                 single=1
-            else:
-                    single=1
         return count+single 
