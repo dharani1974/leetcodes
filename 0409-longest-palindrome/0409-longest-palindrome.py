@@ -12,8 +12,6 @@ class Solution:
             if seen[key]%2==0:
                 count+=seen[key]
             else:
-                if seen[key]==1:
-                    single=1
                 count+=seen[key]-1
                 single=1
         return count+single 
