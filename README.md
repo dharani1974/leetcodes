@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dharani1974/leetcodes/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dharani1974/leetcodes/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dharani1974/leetcodes/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3745-maximize-expression-of-three-elements](https://github.com/dharani1974/leetcodes/tree/master/3745-maximize-expression-of-three-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/dharani1974/leetcodes/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/dharani1974/leetcodes/tree/master/0869-reordered-power-of-2) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/dharani1974/leetcodes/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [3745-maximize-expression-of-three-elements](https://github.com/dharani1974/leetcodes/tree/master/3745-maximize-expression-of-three-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/dharani1974/leetcodes/tree/master/0869-reordered-power-of-2) |
 | [0905-sort-array-by-parity](https://github.com/dharani1974/leetcodes/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/dharani1974/leetcodes/tree/master/0977-squares-of-a-sorted-array) |
+| [3745-maximize-expression-of-three-elements](https://github.com/dharani1974/leetcodes/tree/master/3745-maximize-expression-of-three-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/dharani1974/leetcodes/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/dharani1974/leetcodes/tree/master/0561-array-partition) |
+| [3745-maximize-expression-of-three-elements](https://github.com/dharani1974/leetcodes/tree/master/3745-maximize-expression-of-three-elements) |
 ## Counting Sort
 |  |
 | ------- |
