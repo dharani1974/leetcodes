@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/dharani1974/leetcodes/tree/master/0869-reordered-power-of-2) |
+| [2427-number-of-common-factors](https://github.com/dharani1974/leetcodes/tree/master/2427-number-of-common-factors) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/dharani1974/leetcodes/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3745-maximize-expression-of-three-elements](https://github.com/dharani1974/leetcodes/tree/master/3745-maximize-expression-of-three-elements) |
 ## Binary Search
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/dharani1974/leetcodes/tree/master/0869-reordered-power-of-2) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dharani1974/leetcodes/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/dharani1974/leetcodes/tree/master/2235-add-two-integers) |
+| [2427-number-of-common-factors](https://github.com/dharani1974/leetcodes/tree/master/2427-number-of-common-factors) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dharani1974/leetcodes/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dharani1974/leetcodes/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/dharani1974/leetcodes/tree/master/3536-maximum-product-of-two-digits) |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/dharani1974/leetcodes/tree/master/0136-single-number) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/dharani1974/leetcodes/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
