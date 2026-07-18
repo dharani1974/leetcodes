@@ -4,9 +4,14 @@ class Solution:
         for i in range (0,len(nums)-1):
             for j in range (i+1,len(nums)):
                 gcd=1
-                f=nums[i]
-                while f>=10:
-                    f//=10
+                if nums[i]<10:
+                    f=nums[i]
+                elif nums[i]<100:
+                    f=nums[i]//10
+                elif nums[i]<1000:
+                    f=nums[i]//100
+                else:
+                    f=nums[i]//1000
                 l=nums[j]%10
                 r=min(f,l)
                 x=1
