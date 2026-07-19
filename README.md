@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dharani1974/leetcodes/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/dharani1974/leetcodes/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/dharani1974/leetcodes/tree/master/2427-number-of-common-factors) |
+| [2469-convert-the-temperature](https://github.com/dharani1974/leetcodes/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/dharani1974/leetcodes/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dharani1974/leetcodes/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/dharani1974/leetcodes/tree/master/2748-number-of-beautiful-pairs) |
