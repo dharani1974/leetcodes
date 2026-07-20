@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dharani1974/leetcodes/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dharani1974/leetcodes/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/dharani1974/leetcodes/tree/master/3536-maximum-product-of-two-digits) |
+| [3894-traffic-signal-color](https://github.com/dharani1974/leetcodes/tree/master/3894-traffic-signal-color) |
 ## Matrix
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/dharani1974/leetcodes/tree/master/0500-keyboard-row) |
 | [0844-backspace-string-compare](https://github.com/dharani1974/leetcodes/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dharani1974/leetcodes/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3894-traffic-signal-color](https://github.com/dharani1974/leetcodes/tree/master/3894-traffic-signal-color) |
 ## Sliding Window
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/dharani1974/leetcodes/tree/master/1920-build-array-from-permutation) |
 | [2169-count-operations-to-obtain-zero](https://github.com/dharani1974/leetcodes/tree/master/2169-count-operations-to-obtain-zero) |
 | [2293-min-max-game](https://github.com/dharani1974/leetcodes/tree/master/2293-min-max-game) |
+| [3894-traffic-signal-color](https://github.com/dharani1974/leetcodes/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/dharani1974/leetcodes/tree/master/3925-concatenate-array-with-reverse) |
 ## Counting
 |  |
