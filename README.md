@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/dharani1974/leetcodes/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dharani1974/leetcodes/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/dharani1974/leetcodes/tree/master/2748-number-of-beautiful-pairs) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/dharani1974/leetcodes/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dharani1974/leetcodes/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dharani1974/leetcodes/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dharani1974/leetcodes/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
