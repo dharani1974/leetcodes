@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dharani1974/leetcodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/dharani1974/leetcodes/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/dharani1974/leetcodes/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/dharani1974/leetcodes/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/dharani1974/leetcodes/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/dharani1974/leetcodes/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/dharani1974/leetcodes/tree/master/0643-maximum-average-subarray-i) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/dharani1974/leetcodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/dharani1974/leetcodes/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dharani1974/leetcodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/dharani1974/leetcodes/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/dharani1974/leetcodes/tree/master/0500-keyboard-row) |
 | [0869-reordered-power-of-2](https://github.com/dharani1974/leetcodes/tree/master/0869-reordered-power-of-2) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dharani1974/leetcodes/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/dharani1974/leetcodes/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/dharani1974/leetcodes/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/dharani1974/leetcodes/tree/master/0844-backspace-string-compare) |
 ## Bit Manipulation
@@ -231,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/dharani1974/leetcodes/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/dharani1974/leetcodes/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
