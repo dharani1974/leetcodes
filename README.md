@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dharani1974/leetcodes/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dharani1974/leetcodes/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/dharani1974/leetcodes/tree/master/2351-first-letter-to-appear-twice) |
+| [2833-furthest-point-from-origin](https://github.com/dharani1974/leetcodes/tree/master/2833-furthest-point-from-origin) |
 | [3894-traffic-signal-color](https://github.com/dharani1974/leetcodes/tree/master/3894-traffic-signal-color) |
 ## Sliding Window
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/dharani1974/leetcodes/tree/master/0869-reordered-power-of-2) |
 | [2351-first-letter-to-appear-twice](https://github.com/dharani1974/leetcodes/tree/master/2351-first-letter-to-appear-twice) |
 | [2748-number-of-beautiful-pairs](https://github.com/dharani1974/leetcodes/tree/master/2748-number-of-beautiful-pairs) |
+| [2833-furthest-point-from-origin](https://github.com/dharani1974/leetcodes/tree/master/2833-furthest-point-from-origin) |
 ## Greedy
 |  |
 | ------- |
