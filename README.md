@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/dharani1974/leetcodes/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/dharani1974/leetcodes/tree/master/1672-richest-customer-wealth) |
 | [1695-maximum-erasure-value](https://github.com/dharani1974/leetcodes/tree/master/1695-maximum-erasure-value) |
+| [1748-sum-of-unique-elements](https://github.com/dharani1974/leetcodes/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/dharani1974/leetcodes/tree/master/1920-build-array-from-permutation) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/dharani1974/leetcodes/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2293-min-max-game](https://github.com/dharani1974/leetcodes/tree/master/2293-min-max-game) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/dharani1974/leetcodes/tree/master/0869-reordered-power-of-2) |
 | [1207-unique-number-of-occurrences](https://github.com/dharani1974/leetcodes/tree/master/1207-unique-number-of-occurrences) |
 | [1695-maximum-erasure-value](https://github.com/dharani1974/leetcodes/tree/master/1695-maximum-erasure-value) |
+| [1748-sum-of-unique-elements](https://github.com/dharani1974/leetcodes/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dharani1974/leetcodes/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/dharani1974/leetcodes/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/dharani1974/leetcodes/tree/master/2351-first-letter-to-appear-twice) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dharani1974/leetcodes/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/dharani1974/leetcodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0869-reordered-power-of-2](https://github.com/dharani1974/leetcodes/tree/master/0869-reordered-power-of-2) |
+| [1748-sum-of-unique-elements](https://github.com/dharani1974/leetcodes/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/dharani1974/leetcodes/tree/master/2351-first-letter-to-appear-twice) |
 | [2748-number-of-beautiful-pairs](https://github.com/dharani1974/leetcodes/tree/master/2748-number-of-beautiful-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/dharani1974/leetcodes/tree/master/2833-furthest-point-from-origin) |
