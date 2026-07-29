@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/dharani1974/leetcodes/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dharani1974/leetcodes/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/dharani1974/leetcodes/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/dharani1974/leetcodes/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/dharani1974/leetcodes/tree/master/1672-richest-customer-wealth) |
 | [1695-maximum-erasure-value](https://github.com/dharani1974/leetcodes/tree/master/1695-maximum-erasure-value) |
 | [1748-sum-of-unique-elements](https://github.com/dharani1974/leetcodes/tree/master/1748-sum-of-unique-elements) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/dharani1974/leetcodes/tree/master/0500-keyboard-row) |
 | [0869-reordered-power-of-2](https://github.com/dharani1974/leetcodes/tree/master/0869-reordered-power-of-2) |
 | [1207-unique-number-of-occurrences](https://github.com/dharani1974/leetcodes/tree/master/1207-unique-number-of-occurrences) |
+| [1512-number-of-good-pairs](https://github.com/dharani1974/leetcodes/tree/master/1512-number-of-good-pairs) |
 | [1695-maximum-erasure-value](https://github.com/dharani1974/leetcodes/tree/master/1695-maximum-erasure-value) |
 | [1748-sum-of-unique-elements](https://github.com/dharani1974/leetcodes/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dharani1974/leetcodes/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dharani1974/leetcodes/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dharani1974/leetcodes/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dharani1974/leetcodes/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/dharani1974/leetcodes/tree/master/1512-number-of-good-pairs) |
 | [2169-count-operations-to-obtain-zero](https://github.com/dharani1974/leetcodes/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/dharani1974/leetcodes/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/dharani1974/leetcodes/tree/master/2427-number-of-common-factors) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dharani1974/leetcodes/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/dharani1974/leetcodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0869-reordered-power-of-2](https://github.com/dharani1974/leetcodes/tree/master/0869-reordered-power-of-2) |
+| [1512-number-of-good-pairs](https://github.com/dharani1974/leetcodes/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/dharani1974/leetcodes/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/dharani1974/leetcodes/tree/master/2351-first-letter-to-appear-twice) |
 | [2748-number-of-beautiful-pairs](https://github.com/dharani1974/leetcodes/tree/master/2748-number-of-beautiful-pairs) |
