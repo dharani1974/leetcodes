@@ -1,15 +1,14 @@
 class Solution:
     def kthDistinct(self, arr: List[str], k: int) -> str:
-        seen=[]
-        dseen=set()
+        seen={}
         for c in arr:
-            if c not in dseen:
-                if c not in seen:
-                    seen.append(c)
-                else:
-                    dseen.add(c)
-                    seen.remove(c)
-        res=list(seen)
-        if len(res)>k-1:
-            return res[k-1]
+            if c in seen:
+                seen[c]+=1
+            else:
+                seen[c]=1
+        for c in arr:
+            if seen[c]==1:
+                k-=1
+                if k==0:
+                    return c
         return ""
