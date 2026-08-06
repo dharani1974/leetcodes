@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/dharani1974/leetcodes/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/dharani1974/leetcodes/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/dharani1974/leetcodes/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2325-decode-the-message](https://github.com/dharani1974/leetcodes/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/dharani1974/leetcodes/tree/master/2351-first-letter-to-appear-twice) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/dharani1974/leetcodes/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/dharani1974/leetcodes/tree/master/2540-minimum-common-value) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/dharani1974/leetcodes/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/dharani1974/leetcodes/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/dharani1974/leetcodes/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2325-decode-the-message](https://github.com/dharani1974/leetcodes/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/dharani1974/leetcodes/tree/master/2351-first-letter-to-appear-twice) |
 | [2833-furthest-point-from-origin](https://github.com/dharani1974/leetcodes/tree/master/2833-furthest-point-from-origin) |
 | [3894-traffic-signal-color](https://github.com/dharani1974/leetcodes/tree/master/3894-traffic-signal-color) |
