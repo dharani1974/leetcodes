@@ -1,15 +1,20 @@
 class Solution:
     def decodeMessage(self, key: str, message: str) -> str:
-        seen={}
-        a=97
-        res=[]
-        for i in key:
-            if i !=" "and i not in seen:
-                seen[i]=chr(a)
-                a+=1
-        for i in message:
-            if i==" ":
-                res.append(" ")
+        dict1 = {}
+        word = ""
+        i=0
+        arr=['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
+        for ch in key:
+            if ch!=' ':
+                if ch not in dict1:
+                    dict1[ch]=arr[i]
+                    i+=1
+
+        for c in message:
+            if c==' ':
+                word+=' '
             else:
-                res.append(seen[i])
-        return "".join(res)
+                word += dict1[c]
+
+        return word
+
