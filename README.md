@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/dharani1974/leetcodes/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/dharani1974/leetcodes/tree/master/2540-minimum-common-value) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/dharani1974/leetcodes/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2716-minimize-string-length](https://github.com/dharani1974/leetcodes/tree/master/2716-minimize-string-length) |
 | [2748-number-of-beautiful-pairs](https://github.com/dharani1974/leetcodes/tree/master/2748-number-of-beautiful-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dharani1974/leetcodes/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Enumeration
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/dharani1974/leetcodes/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2325-decode-the-message](https://github.com/dharani1974/leetcodes/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/dharani1974/leetcodes/tree/master/2351-first-letter-to-appear-twice) |
+| [2716-minimize-string-length](https://github.com/dharani1974/leetcodes/tree/master/2716-minimize-string-length) |
 | [2833-furthest-point-from-origin](https://github.com/dharani1974/leetcodes/tree/master/2833-furthest-point-from-origin) |
 | [3894-traffic-signal-color](https://github.com/dharani1974/leetcodes/tree/master/3894-traffic-signal-color) |
 ## Sliding Window
