@@ -3,11 +3,20 @@ class Solution:
         l=0
         r=0
         _=0
-        for char in moves:
-            if char=="L":
+        for ch in moves:
+            if ch=='L':
                 l+=1
-            elif char=="R":
+            elif ch=='R':
                 r+=1
             else:
                 _+=1
-        return (abs(l-r))+_
+        
+        if r>l:
+            return r-l+_
+            
+        else:
+            return l-r+_
+        
+
+
+
