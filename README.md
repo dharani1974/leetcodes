@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/dharani1974/leetcodes/tree/master/0869-reordered-power-of-2) |
 | [0905-sort-array-by-parity](https://github.com/dharani1974/leetcodes/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/dharani1974/leetcodes/tree/master/0977-squares-of-a-sorted-array) |
+| [1859-sorting-the-sentence](https://github.com/dharani1974/leetcodes/tree/master/1859-sorting-the-sentence) |
 | [2248-intersection-of-multiple-arrays](https://github.com/dharani1974/leetcodes/tree/master/2248-intersection-of-multiple-arrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/dharani1974/leetcodes/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dharani1974/leetcodes/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/dharani1974/leetcodes/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dharani1974/leetcodes/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dharani1974/leetcodes/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1859-sorting-the-sentence](https://github.com/dharani1974/leetcodes/tree/master/1859-sorting-the-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/dharani1974/leetcodes/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/dharani1974/leetcodes/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/dharani1974/leetcodes/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -298,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/dharani1974/leetcodes/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/dharani1974/leetcodes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/dharani1974/leetcodes/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
