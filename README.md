@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/dharani1974/leetcodes/tree/master/1695-maximum-erasure-value) |
 | [1748-sum-of-unique-elements](https://github.com/dharani1974/leetcodes/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/dharani1974/leetcodes/tree/master/1920-build-array-from-permutation) |
+| [2032-two-out-of-three](https://github.com/dharani1974/leetcodes/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/dharani1974/leetcodes/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/dharani1974/leetcodes/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/dharani1974/leetcodes/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/dharani1974/leetcodes/tree/master/1695-maximum-erasure-value) |
 | [1748-sum-of-unique-elements](https://github.com/dharani1974/leetcodes/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dharani1974/leetcodes/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2032-two-out-of-three](https://github.com/dharani1974/leetcodes/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/dharani1974/leetcodes/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/dharani1974/leetcodes/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/dharani1974/leetcodes/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/dharani1974/leetcodes/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dharani1974/leetcodes/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2032-two-out-of-three](https://github.com/dharani1974/leetcodes/tree/master/2032-two-out-of-three) |
 | [2351-first-letter-to-appear-twice](https://github.com/dharani1974/leetcodes/tree/master/2351-first-letter-to-appear-twice) |
 ## Number Theory
 |  |
