@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/dharani1974/leetcodes/tree/master/1436-destination-city) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/dharani1974/leetcodes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/dharani1974/leetcodes/tree/master/1480-running-sum-of-1d-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dharani1974/leetcodes/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/dharani1974/leetcodes/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/dharani1974/leetcodes/tree/master/1672-richest-customer-wealth) |
 | [1695-maximum-erasure-value](https://github.com/dharani1974/leetcodes/tree/master/1695-maximum-erasure-value) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/dharani1974/leetcodes/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/dharani1974/leetcodes/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dharani1974/leetcodes/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dharani1974/leetcodes/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1859-sorting-the-sentence](https://github.com/dharani1974/leetcodes/tree/master/1859-sorting-the-sentence) |
 | [2248-intersection-of-multiple-arrays](https://github.com/dharani1974/leetcodes/tree/master/2248-intersection-of-multiple-arrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/dharani1974/leetcodes/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
