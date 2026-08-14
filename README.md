@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/dharani1974/leetcodes/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dharani1974/leetcodes/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/dharani1974/leetcodes/tree/master/1512-number-of-good-pairs) |
+| [1572-matrix-diagonal-sum](https://github.com/dharani1974/leetcodes/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/dharani1974/leetcodes/tree/master/1672-richest-customer-wealth) |
 | [1695-maximum-erasure-value](https://github.com/dharani1974/leetcodes/tree/master/1695-maximum-erasure-value) |
 | [1748-sum-of-unique-elements](https://github.com/dharani1974/leetcodes/tree/master/1748-sum-of-unique-elements) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/dharani1974/leetcodes/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/dharani1974/leetcodes/tree/master/1672-richest-customer-wealth) |
 ## Interactive
 |  |
