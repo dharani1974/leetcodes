@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/dharani1974/leetcodes/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1436-destination-city](https://github.com/dharani1974/leetcodes/tree/master/1436-destination-city) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dharani1974/leetcodes/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/dharani1974/leetcodes/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dharani1974/leetcodes/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/dharani1974/leetcodes/tree/master/1859-sorting-the-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/dharani1974/leetcodes/tree/master/2053-kth-distinct-string-in-an-array) |
