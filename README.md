@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/dharani1974/leetcodes/tree/master/0771-jewels-and-stones) |
 | [0869-reordered-power-of-2](https://github.com/dharani1974/leetcodes/tree/master/0869-reordered-power-of-2) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/dharani1974/leetcodes/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/dharani1974/leetcodes/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/dharani1974/leetcodes/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dharani1974/leetcodes/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/dharani1974/leetcodes/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/dharani1974/leetcodes/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/dharani1974/leetcodes/tree/master/0844-backspace-string-compare) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/dharani1974/leetcodes/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/dharani1974/leetcodes/tree/master/1189-maximum-number-of-balloons) |
 | [1436-destination-city](https://github.com/dharani1974/leetcodes/tree/master/1436-destination-city) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dharani1974/leetcodes/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/dharani1974/leetcodes/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/dharani1974/leetcodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0869-reordered-power-of-2](https://github.com/dharani1974/leetcodes/tree/master/0869-reordered-power-of-2) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/dharani1974/leetcodes/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/dharani1974/leetcodes/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/dharani1974/leetcodes/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/dharani1974/leetcodes/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/dharani1974/leetcodes/tree/master/1748-sum-of-unique-elements) |
