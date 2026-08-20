@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/dharani1974/leetcodes/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/dharani1974/leetcodes/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/dharani1974/leetcodes/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dharani1974/leetcodes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/dharani1974/leetcodes/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/dharani1974/leetcodes/tree/master/1189-maximum-number-of-balloons) |
 | [1436-destination-city](https://github.com/dharani1974/leetcodes/tree/master/1436-destination-city) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/dharani1974/leetcodes/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/dharani1974/leetcodes/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/dharani1974/leetcodes/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dharani1974/leetcodes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/dharani1974/leetcodes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bit Manipulation
 |  |
