@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/dharani1974/leetcodes/tree/master/1436-destination-city) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dharani1974/leetcodes/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/dharani1974/leetcodes/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dharani1974/leetcodes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dharani1974/leetcodes/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/dharani1974/leetcodes/tree/master/1859-sorting-the-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/dharani1974/leetcodes/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/dharani1974/leetcodes/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dharani1974/leetcodes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/dharani1974/leetcodes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dharani1974/leetcodes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -326,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/dharani1974/leetcodes/tree/master/1859-sorting-the-sentence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dharani1974/leetcodes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
