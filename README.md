@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/dharani1974/leetcodes/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/dharani1974/leetcodes/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/dharani1974/leetcodes/tree/master/0500-keyboard-row) |
+| [0503-next-greater-element-ii](https://github.com/dharani1974/leetcodes/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/dharani1974/leetcodes/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/dharani1974/leetcodes/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/dharani1974/leetcodes/tree/master/0682-baseball-game) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/dharani1974/leetcodes/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/dharani1974/leetcodes/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/dharani1974/leetcodes/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/dharani1974/leetcodes/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dharani1974/leetcodes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/dharani1974/leetcodes/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/dharani1974/leetcodes/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/dharani1974/leetcodes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bubble Sort
 |  |
