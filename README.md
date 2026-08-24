@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/dharani1974/leetcodes/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/dharani1974/leetcodes/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/dharani1974/leetcodes/tree/master/0905-sort-array-by-parity) |
+| [0941-valid-mountain-array](https://github.com/dharani1974/leetcodes/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/dharani1974/leetcodes/tree/master/0977-squares-of-a-sorted-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/dharani1974/leetcodes/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/dharani1974/leetcodes/tree/master/1207-unique-number-of-occurrences) |
