@@ -9,8 +9,5 @@ class Solution:
             stack.append(i)
         res=[]
         for i in nums1:
-            if i in store:
-                res.append(store[i])
-            else:
-                res.append(-1)
+                res.append(store.get(i,-1))
         return res
